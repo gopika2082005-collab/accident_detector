@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+numpy==1.26.4
+streamlit
+playsound==1.2.2
+python-dotenv
+requests
